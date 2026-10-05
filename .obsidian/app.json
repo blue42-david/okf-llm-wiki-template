@@ -1,0 +1,27 @@
+{
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "raw/assets",
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:insert-tag",
+    "editor:insert-wikilink",
+    "editor:insert-link",
+    "editor:attach-file",
+    "editor:toggle-code",
+    "editor:insert-codeblock",
+    "editor:toggle-checklist-status",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:go-start",
+    "editor:go-end",
+    "editor:fold-less",
+    "editor:fold-more",
+    "editor:configure-toolbar"
+  ]
+}
